@@ -1,0 +1,14 @@
+{
+  "name": "kontent-webhook-processing-function-js",
+  "version": "1.0.0",
+  "description": "Kentico Kontent Webhook Processing Javascript Azure Function Template",
+  "author": {
+    "name": "Ondřej Chrastina",
+    "email": "chrastina.ondra@gmail.com"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

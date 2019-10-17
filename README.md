@@ -1,5 +1,8 @@
 # Kentico Kontent Webhook Processing JavaScript Azure Function Template
 
+[![Gitter](https://img.shields.io/gitter/room/kentico/kontent.svg)](https://gitter.im/Kentico/Kontent)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-ASK%20NOW-FE7A16.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/tags/kentico-kontent)
+
 > Pretty long name, right?
 
 ## Prerequisites

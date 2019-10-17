@@ -1,4 +1,4 @@
-# Kentico Kontent Webhook Processing Javascript Azure Function Template
+# Kentico Kontent Webhook Processing JavaScript Azure Function Template
 
 > Pretty long name, right?
 
